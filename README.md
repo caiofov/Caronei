@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/f07a606a-5f2c-49d3-9d45-d1a0546473e8)
+
+
 ## SUMÁRIO
 - [Rodando o projeto](#rodando-o-projeto) -> depois do <code>git pull</code>
 - [Configurações iniciais](#configurações-iniciais) -> depois do <code>git clone</code>
